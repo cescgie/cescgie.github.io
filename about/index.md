@@ -3,9 +3,11 @@ layout: page
 title: About
 ---
 
-<img src="portrait.jpg" width="50%" align="right">
+## About Me
 
-Hello. My name is Yoggi Firmanda. I'm a Indonesian living in Berlin since 2010. I have bachelor's degree in Bachelor of Science for 'Angewandte Informatik'(Applied Science of Informatic) at HTW Berlin(University of Applied Science Berlin).
+<img width="50%" align="right" src="http://i1284.photobucket.com/albums/a569/sumvats/Webtech/The_Flash_zps110093c0.jpg" border="0" alt=" photo The_Flash_zps110093c0.jpg"/>
+
+Hello. My name is Yoggi Firmanda. I'm an Indonesian living in Berlin since 2010. I have bachelor's degree in Bachelor of Science for 'Angewandte Informatik'(Applied Science of Informatic) at HTW Berlin(University of Applied Science Berlin).
 
 I do really like to play football and badminton and i have passion for art and technology.
 
@@ -19,10 +21,8 @@ I currently work at [Netpoint-Media GmbH Berlin](http://www.netpoint-media.de/) 
 
 ## Elsewhere
 
-You can find me on a variety of world wild interweb sites where my username is usually "rsms".
-
 - [Twitter](http://twitter.com/yoggifirmanda) — a good way to make contact
-- [GitHub](https://github.com/cesgie) — code, juicy code
+- [GitHub](https://github.com/cescgie) — code, juicy code
 - [Instagram](http://instagram.com/yoggifirmanda/) — short stories via photo snapshots
 <!-- - [Flickr](http://www.flickr.com/photos/rsms/) — photography -->
 - [Facebook](http://www.facebook.com/yoggi.firmanda) — friends and foes
