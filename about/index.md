@@ -9,7 +9,7 @@ title: About
 
 Hello. My name is Yoggi Firmanda. I'm an Indonesian living in Berlin since 2010. I have bachelor's degree in Bachelor of Science for 'Angewandte Informatik'(Applied Science of Informatic) at HTW Berlin(University of Applied Science Berlin).
 
-I do really like to play football and badminton and i have passion for art and technology.
+I like playing football and badminton and i have passion for art and technology.
 
 More information can be found through [LinkedIn](http://linkedin.com/pub/yoggi-firmanda/90/98b/858).
 
