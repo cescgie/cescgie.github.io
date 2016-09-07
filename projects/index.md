@@ -17,6 +17,8 @@ title: Projects
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
+<script id="dsq-count-scr" src="//cescgie-github-io.disqus.com/count.js" async></script>
+
 <script>
 
 /**
