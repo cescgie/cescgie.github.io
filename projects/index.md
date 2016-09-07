@@ -1,6 +1,7 @@
 ---
 layout: page
 fb_comments: 3
+comments: true
 title: Projects
 ---
 
@@ -13,3 +14,6 @@ title: Projects
 - [Adsi](https://github.com/cescgie/pustapu) — Import und Speicherung von Adserverdaten und Erkennung und Bewertung von Strukturen der Werbeauslieferung ( bachelor's thesis ) - Summer Semester 2015 (on development).
 - [HtpwdSQL](https://github.com/cescgie/Password-Protection-Using-MySQL) — Apache Web Login Authentication with MySQL - March, 2015.
 - [HTW Plus](https://plus.f4.htw-berlin.de/) — Project Study as Backend Developer - Winter Semester 2014/2015.
+
+{% if page.comments %}
+{% endif %}
