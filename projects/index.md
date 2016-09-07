@@ -1,7 +1,7 @@
 ---
 layout: page
 fb_comments: 3
-comments: false
+comments: true
 title: Projects
 ---
 
