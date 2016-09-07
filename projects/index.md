@@ -1,7 +1,7 @@
 ---
 layout: page
 fb_comments: 3
-comments: true
+comments: false
 title: Projects
 ---
 
@@ -17,7 +17,6 @@ title: Projects
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
-<script id="dsq-count-scr" src="//cescgie-github-io.disqus.com/count.js" async></script>
 <script>
 
 /**
