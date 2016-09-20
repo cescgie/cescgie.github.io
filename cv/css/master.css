@@ -70,7 +70,7 @@ img {
   text-decoration: none;
 }
 
-p.date , h4.main{
+p.date , h4.main, span.lang_info{
   color: rgb(38, 121, 182);
 }
 
