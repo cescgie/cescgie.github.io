@@ -63,47 +63,33 @@
   <li><a href="https://github.com/cescgie/Password-Protection-Using-MySQL">HtpwdSQL</a> — Apache Web Login Authentication with MySQL - March, 2015.</li>
   <li><a href="https://plus.f4.htw-berlin.de/">HTW Plus</a> — Project Study as Backend Developer - Winter Semester 2014/2015.</li>
 </ul>
-</div>
 
-<!-- During authoring, this automatically reloads the post as its changing -->
-<script type="text/javascript">
-(function() {
-var qs = document.location.search;
-var current_etag = qs.match(/etag=("?[a-zA-Z0-9_-]+)/);
-if (current_etag !== null) { current_etag = current_etag[1]; }
-var scrolly = qs.match(/scrolly=([0-9]+)/);
-if (scrolly) {
-  scrolly = parseInt(scrolly[1]);
-  window.scrollTo(window.scrollX, scrolly);
-  setTimeout(function () {
-    window.scrollTo(window.scrollX, scrolly);
-  }, 10);
-}
+<div id="disqus_thread"></div>
+<script id="dsq-count-scr" src="//cescgie-github-io.disqus.com/count.js" async=""></script>
 
-function check() {
-  var r = new XMLHttpRequest();
-  var url = document.location.href + ((qs && qs !== '') ? '&' : '?') + 'r=' + Math.random();
-  r.open('GET', url, true);
-  r.onreadystatechange = function() {
-    if (r.readyState == 4){
-      var found_etag = r.getResponseHeader('Etag').replace(/^"|"$/g);
-      //console.log('current_etag:', current_etag, 'found_etag:', found_etag);
-      if (current_etag === null) {
-        current_etag = found_etag;
-      } else if (found_etag !== current_etag) {
-        document.location.search =
-          '?etag=' + encodeURIComponent(found_etag) +
-          '&scrolly=' + window.scrollY;
-        return;
-      }
-      setTimeout(check, 500);
-    }
-  };
-  r.send(null);
-}
-check();
+<script>
+
+/**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
+/*
+var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//cescgie-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
 </script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+</div>
 
 
     <!--/div-->
